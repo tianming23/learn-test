@@ -1,2 +1,2 @@
 # learn-test
-the things i study now
+the things I study now
